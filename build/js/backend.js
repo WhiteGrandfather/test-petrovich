@@ -1,9 +1,8 @@
 'use strict';
 
 (function () {
-
   // JSON адрес
-  var URL = '/';
+  var URL = '';
   // JSON файл
   var JSON_CONTAINER = 'products.json';
 
